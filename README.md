@@ -7,7 +7,4 @@ A simple and responsive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - Responsive layout for all screen sizes
 - 2-player gameplay with stylish UI
 
-## 🚀 Getting Started
-Open `index.html` in your browser and start playing!
-
 ## 👩‍💻 Made by Shubham
